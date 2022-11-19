@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cryptocurrency
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Sticky Notes
+description: jQuery Project using RESTful API
+img: assets/img/todolist.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Crypto
+description: Crypto Currency - jQuery Project using RESTful API
+img: assets/img/Crypto.jpg
 importance: 3
 category: fun
 ---

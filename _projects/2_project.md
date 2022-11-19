@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Online Store
-description: a project with a background image
+description: Full stack project (Angular + Node.js + MongoDB)
 img: assets/img/market.jpg
 importance: 2
 category: work

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Skills
-description: Materials for courses you taught. Replace this text with your description.
+description: <b>My Technical Skills<b>
 nav: true
 nav_order: 5
 ---

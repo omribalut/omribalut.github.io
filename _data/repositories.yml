@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - omribalut
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - omribalut/Vacation-App
+  - omribalut/Online-Store
+  - omribalut/Cryptocurrency
+  - omribalut/Sticky-Notes
