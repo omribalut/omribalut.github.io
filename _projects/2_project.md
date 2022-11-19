@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Online Store
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/market.jpg
 importance: 2
 category: work
 ---
