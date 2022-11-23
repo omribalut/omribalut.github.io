@@ -11,8 +11,10 @@
       value: <a href="https://www.linkedin.com/in/omri-blutstein-0a97bb195">https://www.linkedin.com/in/omri-blutstein-0a97bb195</a>
     - name: Email
       value: <a href="mailto:omribalut@gmail.com">omribalut@gmail.com</a>
-    # - name: Via Gmail
-    #   value: <a href='mailto:omribalut@gmail.com?subject=write letter>mail to</a>
+    - name: Phone
+      value: 0546848167
+    - name: City
+      value: Ramat Ha'Sharon
 
 
     

@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Phone: 054-6848167</p>
-    <p>City: Ramat Ha'sharon</p>
+    
 
 
 ---
