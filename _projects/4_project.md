@@ -2,7 +2,7 @@
 layout: page
 title: Crypto
 description: Crypto Currency - jQuery project using RESTful API
-img: assets/img/Crypto.jpg
+img: assets/img/crypto.jpg
 importance: 3
 category: work
 ---
@@ -20,7 +20,7 @@ category: work
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Crypto.jpg" title="Coins" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/crypto.jpg" title="Coins" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
