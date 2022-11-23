@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Sticky Notes
-description: To Do List
-img: assets/img/todolist.jpg
-# redirect: https://unsplash.com
+title: Crypto
+description: Crypto Currency - jQuery project using RESTful API
+img: assets/img/crypto.jpg
 importance: 3
 category: work
 ---
@@ -12,16 +11,16 @@ category: work
 
 </div>
 <div class="caption">
-    A JavaScript sticky notes app.
+    An app showcasing a list of cards of the current currency of Crypto coins using RESTful API.
     <br>
-    Users can add and delete notes.
-
+    The user can search for a specific coin through a search input.
 </div>
 <div class="caption">
     <h1> The User UI </h1>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/todolist.jpg" title="Notes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/crypto.jpg" title="Coins" class="img-fluid rounded z-depth-1" %}
     </div>
 
+</div>
