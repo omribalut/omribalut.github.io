@@ -2,7 +2,7 @@
 layout: page
 title: Crypto
 description: Crypto Currency - jQuery project using RESTful API
-img: assets/img/crypto.jpg
+img: assets/img/Crypto.jpg
 importance: 3
 category: work
 ---
